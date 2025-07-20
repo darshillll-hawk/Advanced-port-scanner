@@ -1,0 +1,4 @@
+[+] Port 22 is OPEN | Service: ssh
+[+] Port 80 is OPEN | Service: http
+
+Scan completed in: 0:00:00.683382
